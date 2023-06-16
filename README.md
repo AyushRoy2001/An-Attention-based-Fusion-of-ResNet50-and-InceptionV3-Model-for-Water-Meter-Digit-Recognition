@@ -1,6 +1,6 @@
 # Watermeter-Digit-Recognition
 
-This is the official implementation  of "A novel Lightweight Attention-aided CNN model for real-time Human Face emotion recognition"
+This is the official implementation  of "An Attention-based Fusion of ResNet50 and InceptionV3 Model for Water Meter Digit Recognition"
 
 ### Overall workflow:
 ![model](https://github.com/AyushRoy2001/Watermeter-Digit-Recognition/assets/94052139/86afcf1b-c5c7-4afa-a0fb-373d8abec819)
