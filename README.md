@@ -26,10 +26,17 @@ Comparison metrics for the models - <br/>
 ## Authors :nerd_face:*
 Ayush Roy<br/>
 P. Shivakumara<br/>
-Umapada Pal<br/>
+L Alkhaled<br/>
 
 ## Citation :thinking:*
 Please do cite our paper in case you find it useful for your research.<br/>
 Citation-<br/>
+@inproceedings{alkhaled2022attention,
+  title={An Attention-based Fusion of ResNet50 and InceptionV3 Model for Water Meter Digit Recognition},
+  author={Alkhaled, Lama and Roy, Ayush and Palaiahnakote, Shivakumara},
+  booktitle={Artificial Intelligence and Applications},
+  year={2022}
+}
 <br/>
 -Link to our paper-<br/>
+http://ojs.bonviewpress.com/index.php/AIA/article/view/1197
