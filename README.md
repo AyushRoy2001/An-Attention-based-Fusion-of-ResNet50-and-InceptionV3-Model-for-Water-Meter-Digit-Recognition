@@ -3,22 +3,13 @@
 This is the official implementation  of "An Attention-based Fusion of ResNet50 and InceptionV3 Model for Water Meter Digit Recognition"
 
 ### Overall workflow:
-![architecture](https://github.com/AyushRoy2001/An-Attention-based-Fusion-of-ResNet50-and-InceptionV3-Model-for-Water-Meter-Digit-Recognition/assets/94052139/c2a899b7-ea32-4994-8450-9566ebb50101)
+![model](https://github.com/AyushRoy2001/An-Attention-based-Fusion-of-ResNet50-and-InceptionV3-Model-for-Water-Meter-Digit-Recognition/assets/94052139/42ddad00-7a5f-4a5d-924e-689767cef9d6)
 
-### A2TF2 block:
-![at2f2](https://github.com/AyushRoy2001/An-Attention-based-Fusion-of-ResNet50-and-InceptionV3-Model-for-Water-Meter-Digit-Recognition/assets/94052139/e2be9065-7670-4ca6-97de-b13d6eca0e1d)
-
-#### FSiAM:
-![fsiam](https://github.com/AyushRoy2001/An-Attention-based-Fusion-of-ResNet50-and-InceptionV3-Model-for-Water-Meter-Digit-Recognition/assets/94052139/cba4ffbb-3572-4515-87cf-07aa19ee600f)
-
-
-#### SE-CAM:
-![secam](https://github.com/AyushRoy2001/An-Attention-based-Fusion-of-ResNet50-and-InceptionV3-Model-for-Water-Meter-Digit-Recognition/assets/94052139/7cf0e61b-dfd3-4f18-9dcc-082aad3b5a0c)
-
+### FCBAM:
+![fcbam](https://github.com/AyushRoy2001/An-Attention-based-Fusion-of-ResNet50-and-InceptionV3-Model-for-Water-Meter-Digit-Recognition/assets/94052139/dff8062d-58f8-4e4d-b6a5-6a4041a2d7db)
 
 ### Dataset collection technique:
 ![dataset](https://github.com/AyushRoy2001/An-Attention-based-Fusion-of-ResNet50-and-InceptionV3-Model-for-Water-Meter-Digit-Recognition/assets/94052139/0137980c-bf29-442a-89cf-ccf7c6d762a6)
-
 
 ## How to use
 -Fork the repository.<br/>
