@@ -3,13 +3,16 @@
 This is the official implementation  of "An Attention-based Fusion of ResNet50 and InceptionV3 Model for Water Meter Digit Recognition"
 
 ### Overall workflow:
-![model](https://github.com/AyushRoy2001/Watermeter-Digit-Recognition/assets/94052139/86afcf1b-c5c7-4afa-a0fb-373d8abec819)
+![model](https://github.com/AyushRoy2001/An-Attention-based-Fusion-of-ResNet50-and-InceptionV3-Model-for-Water-Meter-Digit-Recognition/assets/94052139/8dc9e768-52b8-4394-be17-e053e916c67e)
+
 
 ### FCBAM:
-![fcbam](https://github.com/AyushRoy2001/Watermeter-Digit-Recognition/assets/94052139/8d0af18b-fa12-4b2f-9470-e75292ff6bec)
+![fcbam](https://github.com/AyushRoy2001/An-Attention-based-Fusion-of-ResNet50-and-InceptionV3-Model-for-Water-Meter-Digit-Recognition/assets/94052139/efa3036d-05b7-4922-aac6-bc98e8871108)
 
-### Dataset complexity illustration:
-![dataset_A](https://github.com/AyushRoy2001/Watermeter-Digit-Recognition/assets/94052139/6a551445-0b88-4e8b-86e9-d3bb3520eed9)
+
+### Dataset collection technique:
+![dataset](https://github.com/AyushRoy2001/An-Attention-based-Fusion-of-ResNet50-and-InceptionV3-Model-for-Water-Meter-Digit-Recognition/assets/94052139/0137980c-bf29-442a-89cf-ccf7c6d762a6)
+
 
 ## How to use
 -Fork the repository.<br/>
