@@ -18,9 +18,10 @@ This is the official implementation  of "An Attention-based Fusion of ResNet50 a
 
 ## Results
 Comparison metrics for the models - <br/>
-![bar_1](https://github.com/AyushRoy2001/Watermeter-Digit-Recognition/assets/94052139/4627155c-e4d3-45c2-998a-15d6dbf8dbe4)
-![bar_2](https://github.com/AyushRoy2001/Watermeter-Digit-Recognition/assets/94052139/a6f43e6d-73ab-4d54-a5e0-921bc2c9e199)
-![bar_3](https://github.com/AyushRoy2001/Watermeter-Digit-Recognition/assets/94052139/3a83e50b-323d-44da-89fb-6162b2791c2a)
+![bar_1](https://github.com/AyushRoy2001/An-Attention-based-Fusion-of-ResNet50-and-InceptionV3-Model-for-Water-Meter-Digit-Recognition/assets/94052139/c7494357-6ad8-4b3d-b98a-66735ac5f41f)
+![bar_3](https://github.com/AyushRoy2001/An-Attention-based-Fusion-of-ResNet50-and-InceptionV3-Model-for-Water-Meter-Digit-Recognition/assets/94052139/9342620e-2950-4a70-9f5b-25d7f7467bc1)
+![bar_2](https://github.com/AyushRoy2001/An-Attention-based-Fusion-of-ResNet50-and-InceptionV3-Model-for-Water-Meter-Digit-Recognition/assets/94052139/7a0d350e-9aad-463b-8937-70055db892dc)
+
 
 
 ## Authors :nerd_face:*
